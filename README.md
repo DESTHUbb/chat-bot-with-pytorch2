@@ -1,5 +1,7 @@
 # chat-bot-with-pytorch2
-# Implementation of a Contextual Chatbot in PyTorch.  
+# Implementation of a Contextual Chatbot in PyTorch.
+![CHATBOTPY](https://user-images.githubusercontent.com/90658763/183467422-f9dcead2-e8fa-4b3e-910d-68bb5643767f.gif)
+
 Simple chatbot implementation with PyTorch. 
 
 - The implementation should be easy to follow for beginners and provide a basic understanding of chatbots.
